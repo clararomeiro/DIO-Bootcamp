@@ -1,2 +1,2 @@
-# DIO-Bootcamp
-Reposiório para os projetos do bootcamp da DIO (Decola Tech)
+# DIO Bootcamp
+Reposiório para os projetos do bootcamp da DIO (Decola Tech Avanade)
